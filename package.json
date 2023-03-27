@@ -1,7 +1,7 @@
 {
     "private": false,
     "name": "@rinse-repeat/actions-rs-core",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "author": "rinse-repeat",
     "license": "MIT",
     "description": "Core functionality for the @actions-rs repos",
@@ -30,7 +30,7 @@
         "@actions/cache": "^1.0.4",
         "@actions/core": "^1.2.6",
         "@actions/exec": "^1.0.4",
-        "@actions/github": "^4.0.0",
+        "@actions/github": "^5.1.0",
         "@actions/io": "^1.0.2",
         "@actions/tool-cache": "^1.6.1",
         "@octokit/graphql": "^4.5.7",
